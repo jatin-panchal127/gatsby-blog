@@ -22,7 +22,7 @@ export default ({ data }) => (
     </Helmet>
     <Seo title="Home" />
     <div>
-      <h1>Good morning!</h1>
+      <h1>Welcome to Jixxy Blog!</h1>
       {
         data.allMarkdownRemark.edges.map(({ node }) => {
           return <div key={node.id}>
