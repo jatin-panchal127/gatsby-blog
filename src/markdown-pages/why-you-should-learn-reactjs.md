@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Learning Reactjs?"
+title: "Why You Should Be Learning Reactjs?"
 date: "2023-02-19"
 description: "All You need to know about Reactjs😉"
 ---
